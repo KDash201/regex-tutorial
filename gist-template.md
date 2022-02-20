@@ -1,10 +1,14 @@
-# Title (replace with your title)
+# Tutorial for Matching a URL via Regex
 
-Introductory paragraph (replace this with your text)
+A regular experession is a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text. It is also known as regex. This tutorial will break down a regex used to match a url.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The below regex can be used to validate that a string is a url. The expression is broken down by components such as anchors, quantifiers and so on.
+
+Regex expression
+
+<script src="https://gist.github.com/KDash201/fa1e42981384d8541a680360a9a53c2a.js"></script>
 
 ## Table of Contents
 
